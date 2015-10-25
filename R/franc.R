@@ -103,7 +103,11 @@ franc_all <- function(text, min_speakers = 1000000, whitelist = NULL,
   ## Candidate languages
   if (min_speakers != 0) {
     enough_speakers <- speakers$language[speakers$speakers >= min_speakers]
-    whitelist <- c(whitelist, enough_speakers)
+    if (is.null(whitelist)) {
+      whitelist <- enough_speakers
+    } else {
+      whitelist <- intersect(whitelist, enough_speakers)
+    }
   }
 
   languages <- filter_languages(
