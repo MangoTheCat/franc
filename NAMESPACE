@@ -2,4 +2,5 @@
 
 export(franc)
 export(franc_all)
+export(speakers)
 importFrom(jsonlite,fromJSON)

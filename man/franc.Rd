@@ -16,7 +16,7 @@ default), to make the detection reasonably fast.}
 
 \item{min_speakers}{Languages with at least this many speakers are
 checked. By default this is one million. Set it to zero to
-include all languages known by franc.}
+include all languages known by franc. See also \code{\link{speakers}}.}
 
 \item{whitelist}{List of three letter language codes to check against.}
 
@@ -50,6 +50,7 @@ franc("the")
 franc("the", min_length = 3)
 }
 \seealso{
-\code{\link{franc_all}} for scores against many languages.
+\code{\link{franc_all}} for scores against many languages,
+  \code{\link{speakers}}.
 }
 

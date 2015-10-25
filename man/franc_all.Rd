@@ -16,7 +16,7 @@ default), to make the detection reasonably fast.}
 
 \item{min_speakers}{Languages with at least this many speakers are
 checked. By default this is one million. Set it to zero to
-include all languages known by franc.}
+include all languages known by franc. See also \code{\link{speakers}}.}
 
 \item{whitelist}{List of three letter language codes to check against.}
 
@@ -54,6 +54,7 @@ head(franc_all("O Brasil caiu 26 posições em",
   blacklist = c("src", "glg", "lav")))
 }
 \seealso{
-\code{\link{franc}} if you only want the top result.
+\code{\link{franc}} if you only want the top result,
+  \code{\link{speakers}}.
 }
 

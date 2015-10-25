@@ -56,7 +56,7 @@ und <- function() lang("und")
 #'    default), to make the detection reasonably fast.
 #' @param min_speakers Languages with at least this many speakers are
 #'   checked. By default this is one million. Set it to zero to
-#'   include all languages known by franc.
+#'   include all languages known by franc. See also \code{\link{speakers}}.
 #' @param whitelist List of three letter language codes to check against.
 #' @param blacklist List of three letter language codes not to check
 #'   againts.
@@ -68,7 +68,8 @@ und <- function() lang("und")
 #'   language codes. The \code{score} column contains the scores.
 #'
 #' @encoding utf8
-#' @seealso \code{\link{franc}} if you only want the top result.
+#' @seealso \code{\link{franc}} if you only want the top result,
+#'   \code{\link{speakers}}.
 #' @export
 #' @examples
 #' head(franc_all("O Brasil caiu 26 posições em"))
@@ -125,7 +126,7 @@ franc_all <- function(text, min_speakers = 1000000, whitelist = NULL,
 #'    default), to make the detection reasonably fast.
 #' @param min_speakers Languages with at least this many speakers are
 #'   checked. By default this is one million. Set it to zero to
-#'   include all languages known by franc.
+#'   include all languages known by franc. See also \code{\link{speakers}}.
 #' @param whitelist List of three letter language codes to check against.
 #' @param blacklist List of three letter language codes not to check
 #'   againts.
@@ -136,7 +137,8 @@ franc_all <- function(text, min_speakers = 1000000, whitelist = NULL,
 #'   language of the text. \code{"und"} is returned for too short input.
 #'
 #' @encoding utf8
-#' @seealso \code{\link{franc_all}} for scores against many languages.
+#' @seealso \code{\link{franc_all}} for scores against many languages,
+#'   \code{\link{speakers}}.
 #' @export
 #' @examples
 #' ## afr
