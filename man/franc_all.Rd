@@ -5,14 +5,18 @@
 \alias{franc_all}
 \title{List of probably languages for a text}
 \usage{
-franc_all(text, whitelist = NULL, blacklist = NULL, min_length = 10,
-  max_length = 2048)
+franc_all(text, min_speakers = 1e+06, whitelist = NULL, blacklist = NULL,
+  min_length = 10, max_length = 2048)
 }
 \arguments{
 \item{text}{A string constant. Should be at least \code{min_length}
 characters long, this is 10 chracters by default.
 Only the first \code{max_length} characters are used (2048 by
 default), to make the detection reasonably fast.}
+
+\item{min_speakers}{Languages with at least this many speakers are
+checked. By default this is one million. Set it to zero to
+include all languages known by franc.}
 
 \item{whitelist}{List of three letter language codes to check against.}
 

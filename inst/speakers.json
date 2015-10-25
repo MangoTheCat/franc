@@ -1,0 +1,2222 @@
+{
+  "ote": {
+    "speakers": 200000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Mezquital Otomi"
+  },
+  "tsz": {
+    "speakers": 100000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Purepecha"
+  },
+  "ndo": {
+    "speakers": 1000000,
+    "iso6391": "ng",
+    "iso6392": "ndo",
+    "name": "Ndonga"
+  },
+  "epo": {
+    "speakers": 2000000,
+    "iso6391": "eo",
+    "iso6392": "epo",
+    "name": "Esperanto"
+  },
+  "kek": {
+    "speakers": 500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kekchí"
+  },
+  "quc": {
+    "speakers": 300000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "K'iche'"
+  },
+  "hus": {
+    "speakers": 150000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Huastec"
+  },
+  "snn": {
+    "speakers": 1240000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Siona"
+  },
+  "jiv": {
+    "speakers": 35000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Shuar"
+  },
+  "niv": {
+    "speakers": 1000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Gilyak"
+  },
+  "arl": {
+    "speakers": 150,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Arabela"
+  },
+  "arn": {
+    "speakers": 440000,
+    "iso6391": null,
+    "iso6392": "arn",
+    "name": "Mapudungun"
+  },
+  "asm": {
+    "speakers": 14604000,
+    "iso6391": "as",
+    "iso6392": "asm",
+    "name": "Assamese"
+  },
+  "ast": {
+    "speakers": 100000,
+    "iso6391": null,
+    "iso6392": "ast",
+    "name": "Asturian"
+  },
+  "acu": {
+    "speakers": 4500,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Achuar-Shiwiar"
+  },
+  "awa": {
+    "speakers": 38261000,
+    "iso6391": null,
+    "iso6392": "awa",
+    "name": "Awadhi"
+  },
+  "ayr": {
+    "speakers": 2200000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Central Aymara"
+  },
+  "azj": {
+    "speakers": 13869000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "North Azerbaijani"
+  },
+  "wwa": {
+    "speakers": 40000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Waama"
+  },
+  "amh": {
+    "speakers": 23000000,
+    "iso6391": "am",
+    "iso6392": "amh",
+    "name": "Amharic"
+  },
+  "arb": {
+    "speakers": 280000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Standard Arabic"
+  },
+  "amc": {
+    "speakers": 720,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Amahuaca"
+  },
+  "alt": {
+    "speakers": 68000,
+    "iso6391": null,
+    "iso6392": "alt",
+    "name": "Southern Altai"
+  },
+  "als": {
+    "speakers": 5000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Tosk Albanian"
+  },
+  "abk": {
+    "speakers": 105000,
+    "iso6391": "ab",
+    "iso6392": "abk",
+    "name": "Abkhazian"
+  },
+  "aka": {
+    "speakers": 7000000,
+    "iso6391": "ak",
+    "iso6392": "aka",
+    "name": "Akan"
+  },
+  "hye": {
+    "speakers": 6836000,
+    "iso6391": "hy",
+    "iso6392": "hye",
+    "name": "Armenian"
+  },
+  "ajg": {
+    "speakers": 200,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Aja (Benin)"
+  },
+  "aii": {
+    "speakers": 1000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Assyrian Neo-Aramaic"
+  },
+  "ace": {
+    "speakers": 3000000,
+    "iso6391": null,
+    "iso6392": "ace",
+    "name": "Achinese"
+  },
+  "agr": {
+    "speakers": 27500,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Aguaruna"
+  },
+  "afr": {
+    "speakers": 6365000,
+    "iso6391": "af",
+    "iso6392": "afr",
+    "name": "Afrikaans"
+  },
+  "amr": {
+    "speakers": 500,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Amarakaeri"
+  },
+  "ame": {
+    "speakers": 6000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Yanesha'"
+  },
+  "boa": {
+    "speakers": 2000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Bora"
+  },
+  "ban": {
+    "speakers": 3800000,
+    "iso6391": null,
+    "iso6392": "ban",
+    "name": "Balinese"
+  },
+  "bba": {
+    "speakers": 400000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Baatonum"
+  },
+  "bci": {
+    "speakers": 2130000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Baoulé"
+  },
+  "bpy": {
+    "speakers": 77500,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Bishnupriya"
+  },
+  "bre": {
+    "speakers": 500000,
+    "iso6391": "br",
+    "iso6392": "bre",
+    "name": "Breton"
+  },
+  "buc": {
+    "speakers": 39000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Bushi"
+  },
+  "bug": {
+    "speakers": 3500000,
+    "iso6391": null,
+    "iso6392": "bug",
+    "name": "Buginese"
+  },
+  "bul": {
+    "speakers": 9000000,
+    "iso6391": "bg",
+    "iso6392": "bul",
+    "name": "Bulgarian"
+  },
+  "bvi": {
+    "speakers": 16000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Belanda Viri"
+  },
+  "bcl": {
+    "speakers": 4000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Central Bikol"
+  },
+  "mya": {
+    "speakers": 31000000,
+    "iso6391": "my",
+    "iso6392": "mya",
+    "name": "Burmese"
+  },
+  "bem": {
+    "speakers": 2150000,
+    "iso6391": null,
+    "iso6392": "bem",
+    "name": "Bemba (Zambia)"
+  },
+  "ben": {
+    "speakers": 196000000,
+    "iso6391": "bn",
+    "iso6392": "ben",
+    "name": "Bengali"
+  },
+  "bfa": {
+    "speakers": 480000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Bari"
+  },
+  "bgp": {
+    "speakers": 1735000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Eastern Balochi"
+  },
+  "bho": {
+    "speakers": 25000000,
+    "iso6391": null,
+    "iso6392": "bho",
+    "name": "Bhojpuri"
+  },
+  "bam": {
+    "speakers": 3000000,
+    "iso6391": "bm",
+    "iso6392": "bam",
+    "name": "Bambara"
+  },
+  "bis": {
+    "speakers": 1200,
+    "iso6391": "bi",
+    "iso6392": "bis",
+    "name": "Bislama"
+  },
+  "bjj": {
+    "speakers": 9500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kanauji"
+  },
+  "eus": {
+    "speakers": 588000,
+    "iso6391": "eu",
+    "iso6392": "eus",
+    "name": "Basque"
+  },
+  "ces": {
+    "speakers": 12000000,
+    "iso6391": "cs",
+    "iso6392": "ces",
+    "name": "Czech"
+  },
+  "chj": {
+    "speakers": 22000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ojitlán Chinantec"
+  },
+  "cic": {
+    "speakers": 1000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Chickasaw"
+  },
+  "cjk": {
+    "speakers": 1004000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Chokwe"
+  },
+  "cjs": {
+    "speakers": 10000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Shor"
+  },
+  "cab": {
+    "speakers": 94500,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Garifuna"
+  },
+  "cmn": {
+    "speakers": 885000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Mandarin Chinese"
+  },
+  "cak": {
+    "speakers": 132200,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kaqchikel"
+  },
+  "cni": {
+    "speakers": 45000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Asháninka"
+  },
+  "cof": {
+    "speakers": 2300,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Colorado"
+  },
+  "con": {
+    "speakers": 1400,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Cofán"
+  },
+  "cos": {
+    "speakers": 341000,
+    "iso6391": "co",
+    "iso6392": "cos",
+    "name": "Corsican"
+  },
+  "cot": {
+    "speakers": 300,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Caquinte"
+  },
+  "cpu": {
+    "speakers": 5000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Pichis Ashéninka"
+  },
+  "crs": {
+    "speakers": 72700,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Seselwa Creole French"
+  },
+  "csa": {
+    "speakers": 1000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Chiltepec Chinantec"
+  },
+  "csw": {
+    "speakers": 60000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Swampy Cree"
+  },
+  "ceb": {
+    "speakers": 15230000,
+    "iso6391": null,
+    "iso6392": "ceb",
+    "name": "Cebuano"
+  },
+  "cat": {
+    "speakers": 4353000,
+    "iso6391": "ca",
+    "iso6392": "cat",
+    "name": "Catalan"
+  },
+  "cax": {
+    "speakers": 47086,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Chiquitano"
+  },
+  "cbr": {
+    "speakers": 1500,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Cashibo-Cacataibo"
+  },
+  "prq": {
+    "speakers": 9000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ashéninka Perené"
+  },
+  "cha": {
+    "speakers": 78000,
+    "iso6391": "ch",
+    "iso6392": "cha",
+    "name": "Chamorro"
+  },
+  "cbs": {
+    "speakers": 2000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Cashinahua"
+  },
+  "cbt": {
+    "speakers": 6000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Chayahuita"
+  },
+  "cbu": {
+    "speakers": 3000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Candoshi-Shapra"
+  },
+  "ddn": {
+    "speakers": 72000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Dendi (Benin)"
+  },
+  "dyu": {
+    "speakers": 2700000,
+    "iso6391": null,
+    "iso6392": "dyu",
+    "name": "Dyula"
+  },
+  "nld": {
+    "speakers": 21000000,
+    "iso6391": "nl",
+    "iso6392": "nld",
+    "name": "Dutch"
+  },
+  "dyo": {
+    "speakers": 260000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Jola-Fonyi"
+  },
+  "dag": {
+    "speakers": 540000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Dagbani"
+  },
+  "dan": {
+    "speakers": 5292000,
+    "iso6391": "da",
+    "iso6392": "dan",
+    "name": "Danish"
+  },
+  "div": {
+    "speakers": 287000,
+    "iso6391": "dv",
+    "iso6392": "div",
+    "name": "Dhivehi"
+  },
+  "dzo": {
+    "speakers": 400000,
+    "iso6391": "dz",
+    "iso6392": "dzo",
+    "name": "Dzongkha"
+  },
+  "dip": {
+    "speakers": 1350000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northeastern Dinka"
+  },
+  "dga": {
+    "speakers": 501000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Southern Dagaare"
+  },
+  "gjn": {
+    "speakers": 250000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Gonja"
+  },
+  "ewe": {
+    "speakers": 2477600,
+    "iso6391": "ee",
+    "iso6392": "ewe",
+    "name": "Ewe"
+  },
+  "kal": {
+    "speakers": 47000,
+    "iso6391": "kl",
+    "iso6392": "kal",
+    "name": "Kalaallisut"
+  },
+  "bin": {
+    "speakers": 1000000,
+    "iso6391": null,
+    "iso6392": "bin",
+    "name": "Bini"
+  },
+  "ike": {
+    "speakers": 21500,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Eastern Canadian Inuktitut"
+  },
+  "rgn": {
+    "speakers": 20112,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Romagnol"
+  },
+  "eng": {
+    "speakers": 322000000,
+    "iso6391": "en",
+    "iso6392": "eng",
+    "name": "English"
+  },
+  "est": {
+    "speakers": 1100000,
+    "iso6391": "et",
+    "iso6392": "est",
+    "name": "Estonian"
+  },
+  "eve": {
+    "speakers": 7170,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Even"
+  },
+  "evn": {
+    "speakers": 40000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Evenki"
+  },
+  "fao": {
+    "speakers": 47000,
+    "iso6391": "fo",
+    "iso6392": "fao",
+    "name": "Faroese"
+  },
+  "wln": {
+    "speakers": 600000,
+    "iso6391": "wa",
+    "iso6392": "wln",
+    "name": "Walloon"
+  },
+  "fij": {
+    "speakers": 650000,
+    "iso6391": "fj",
+    "iso6392": "fij",
+    "name": "Fijian"
+  },
+  "fuc": {
+    "speakers": 22000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Pulaar"
+  },
+  "fra": {
+    "speakers": 124000000,
+    "iso6391": "fr",
+    "iso6392": "fra",
+    "name": "French"
+  },
+  "fur": {
+    "speakers": 600000,
+    "iso6391": null,
+    "iso6392": "fur",
+    "name": "Friulian"
+  },
+  "fon": {
+    "speakers": 1436000,
+    "iso6391": null,
+    "iso6392": "fon",
+    "name": "Fon"
+  },
+  "fin": {
+    "speakers": 6000000,
+    "iso6391": "fi",
+    "iso6392": "fin",
+    "name": "Finnish"
+  },
+  "pcd": {
+    "speakers": 500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Picard"
+  },
+  "hau": {
+    "speakers": 22000000,
+    "iso6391": "ha",
+    "iso6392": "hau",
+    "name": "Hausa"
+  },
+  "gug": {
+    "speakers": 12000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Paraguayan Guaraní"
+  },
+  "guj": {
+    "speakers": 44000000,
+    "iso6391": "gu",
+    "iso6392": "guj",
+    "name": "Gujarati"
+  },
+  "guu": {
+    "speakers": 17640,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Yanomamö"
+  },
+  "gyr": {
+    "speakers": 5933,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Guarayu"
+  },
+  "gag": {
+    "speakers": 198000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Gagauz"
+  },
+  "gbm": {
+    "speakers": 2920000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Garhwali"
+  },
+  "deu": {
+    "speakers": 121000000,
+    "iso6391": "de",
+    "iso6392": "deu",
+    "name": "German"
+  },
+  "pov": {
+    "speakers": 580000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Upper Guinea Crioulo"
+  },
+  "gaa": {
+    "speakers": 1000000,
+    "iso6391": null,
+    "iso6392": "gaa",
+    "name": "Ga"
+  },
+  "gkp": {
+    "speakers": 808000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Guinea Kpelle"
+  },
+  "ada": {
+    "speakers": 1000000,
+    "iso6391": null,
+    "iso6392": "ada",
+    "name": "Adangme"
+  },
+  "gla": {
+    "speakers": 63653,
+    "iso6391": "gd",
+    "iso6392": "gla",
+    "name": "Scottish Gaelic"
+  },
+  "gld": {
+    "speakers": 12003,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Nanai"
+  },
+  "ell": {
+    "speakers": 12258540,
+    "iso6391": "el",
+    "iso6392": "ell",
+    "name": "Modern Greek (1453-)"
+  },
+  "gle": {
+    "speakers": 260000,
+    "iso6391": "ga",
+    "iso6392": "gle",
+    "name": "Irish"
+  },
+  "glg": {
+    "speakers": 4000000,
+    "iso6391": "gl",
+    "iso6392": "glg",
+    "name": "Galician"
+  },
+  "gno": {
+    "speakers": 1950000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northern Gondi"
+  },
+  "gax": {
+    "speakers": 30000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Borana-Arsi-Guji Oromo"
+  },
+  "kat": {
+    "speakers": 4103000,
+    "iso6391": "ka",
+    "iso6392": "kat",
+    "name": "Georgian"
+  },
+  "guc": {
+    "speakers": 305000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Wayuu"
+  },
+  "hea": {
+    "speakers": 820000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northern Qiandong Miao"
+  },
+  "hun": {
+    "speakers": 14500000,
+    "iso6391": "hu",
+    "iso6392": "hun",
+    "name": "Hungarian"
+  },
+  "haw": {
+    "speakers": 8000,
+    "iso6391": null,
+    "iso6392": "haw",
+    "name": "Hawaiian"
+  },
+  "huu": {
+    "speakers": 2900,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Murui Huitoto"
+  },
+  "hat": {
+    "speakers": 7382000,
+    "iso6391": "ht",
+    "iso6392": "hat",
+    "name": "Haitian"
+  },
+  "heb": {
+    "speakers": 4612000,
+    "iso6391": "he",
+    "iso6392": "heb",
+    "name": "Hebrew"
+  },
+  "hil": {
+    "speakers": 7000000,
+    "iso6391": null,
+    "iso6392": "hil",
+    "name": "Hiligaynon"
+  },
+  "hin": {
+    "speakers": 182000000,
+    "iso6391": "hi",
+    "iso6392": "hin",
+    "name": "Hindi"
+  },
+  "hlt": {
+    "speakers": 30000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Matu Chin"
+  },
+  "hms": {
+    "speakers": 8200000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Southern Qiandong Miao"
+  },
+  "hna": {
+    "speakers": 327000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Mina (Cameroon)"
+  },
+  "cnh": {
+    "speakers": 446264,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Haka Chin"
+  },
+  "hne": {
+    "speakers": 17500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Chhattisgarhi"
+  },
+  "hni": {
+    "speakers": 747000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Hani"
+  },
+  "hoc": {
+    "speakers": 1500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ho"
+  },
+  "ilo": {
+    "speakers": 8000000,
+    "iso6391": null,
+    "iso6392": "ilo",
+    "name": "Iloko"
+  },
+  "ibo": {
+    "speakers": 17000000,
+    "iso6391": "ig",
+    "iso6392": "ibo",
+    "name": "Igbo"
+  },
+  "ita": {
+    "speakers": 63000000,
+    "iso6391": "it",
+    "iso6392": "ita",
+    "name": "Italian"
+  },
+  "isl": {
+    "speakers": 282845,
+    "iso6391": "is",
+    "iso6392": "isl",
+    "name": "Icelandic"
+  },
+  "ind": {
+    "speakers": 140000000,
+    "iso6391": "id",
+    "iso6392": "ind",
+    "name": "Indonesian"
+  },
+  "nds": {
+    "speakers": 2600000,
+    "iso6391": null,
+    "iso6392": "nds",
+    "name": "Low German"
+  },
+  "ibb": {
+    "speakers": 3186000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ibibio"
+  },
+  "iii": {
+    "speakers": 1600000,
+    "iso6391": "ii",
+    "iso6392": "iii",
+    "name": "Sichuan Yi"
+  },
+  "jpn": {
+    "speakers": 125000000,
+    "iso6391": "ja",
+    "iso6392": "jpn",
+    "name": "Japanese"
+  },
+  "jav": {
+    "speakers": 75500800,
+    "iso6391": "jv",
+    "iso6392": "jav",
+    "name": "Javanese"
+  },
+  "kfa": {
+    "speakers": 241000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kodava"
+  },
+  "kha": {
+    "speakers": 865000,
+    "iso6391": null,
+    "iso6392": "kha",
+    "name": "Khasi"
+  },
+  "khk": {
+    "speakers": 2330000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Halh Mongolian"
+  },
+  "khm": {
+    "speakers": 7063200,
+    "iso6391": "km",
+    "iso6392": "khm",
+    "name": "Central Khmer"
+  },
+  "khr": {
+    "speakers": 293580,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kharia"
+  },
+  "kas": {
+    "speakers": 4381000,
+    "iso6391": "ks",
+    "iso6392": "kas",
+    "name": "Kashmiri"
+  },
+  "kir": {
+    "speakers": 2631420,
+    "iso6391": "ky",
+    "iso6392": "kir",
+    "name": "Kirghiz"
+  },
+  "kjh": {
+    "speakers": 60000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Khakas"
+  },
+  "ckb": {
+    "speakers": 20000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Central Kurdish"
+  },
+  "kaz": {
+    "speakers": 8000000,
+    "iso6391": "kk",
+    "iso6392": "kaz",
+    "name": "Kazakh"
+  },
+  "knc": {
+    "speakers": 3500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Central Kanuri"
+  },
+  "kng": {
+    "speakers": 1000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Koongo"
+  },
+  "koi": {
+    "speakers": 12500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Komi-Permyak"
+  },
+  "koo": {
+    "speakers": 361709,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Konzo"
+  },
+  "kor": {
+    "speakers": 75000000,
+    "iso6391": "ko",
+    "iso6392": "kor",
+    "name": "Korean"
+  },
+  "kqn": {
+    "speakers": 276000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kaonde"
+  },
+  "kri": {
+    "speakers": 480000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Krio"
+  },
+  "krl": {
+    "speakers": 80000,
+    "iso6391": null,
+    "iso6392": "krl",
+    "name": "Karelian"
+  },
+  "ksw": {
+    "speakers": 2000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "S'gaw Karen"
+  },
+  "kwi": {
+    "speakers": 21000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Awa-Cuaiquer"
+  },
+  "kbp": {
+    "speakers": 1200000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kabiyè"
+  },
+  "xsm": {
+    "speakers": 200000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kasem"
+  },
+  "kde": {
+    "speakers": 1260000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Makonde"
+  },
+  "kea": {
+    "speakers": 393943,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Kabuverdianu"
+  },
+  "kan": {
+    "speakers": 33663000,
+    "iso6391": "kn",
+    "iso6392": "kan",
+    "name": "Kannada"
+  },
+  "kmr": {
+    "speakers": 8000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northern Kurdish"
+  },
+  "lia": {
+    "speakers": 335000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "West-Central Limba"
+  },
+  "lin": {
+    "speakers": 8400000,
+    "iso6391": "ln",
+    "iso6392": "lin",
+    "name": "Lingala"
+  },
+  "lit": {
+    "speakers": 4000000,
+    "iso6391": "lt",
+    "iso6392": "lit",
+    "name": "Lithuanian"
+  },
+  "lad": {
+    "speakers": 120000,
+    "iso6391": null,
+    "iso6392": "lad",
+    "name": "Ladino"
+  },
+  "lav": {
+    "speakers": 1550000,
+    "iso6391": "lv",
+    "iso6392": "lav",
+    "name": "Latvian"
+  },
+  "lob": {
+    "speakers": 442000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Lobi"
+  },
+  "lot": {
+    "speakers": 135000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Otuho"
+  },
+  "loz": {
+    "speakers": 71841,
+    "iso6391": null,
+    "iso6392": "loz",
+    "name": "Lozi"
+  },
+  "ltz": {
+    "speakers": 335518,
+    "iso6391": "lb",
+    "iso6392": "ltz",
+    "name": "Luxembourgish"
+  },
+  "lua": {
+    "speakers": 6300000,
+    "iso6391": null,
+    "iso6392": "lua",
+    "name": "Luba-Lulua"
+  },
+  "lue": {
+    "speakers": 35800,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Luvale"
+  },
+  "lug": {
+    "speakers": 3015980,
+    "iso6391": "lg",
+    "iso6392": "lug",
+    "name": "Ganda"
+  },
+  "lus": {
+    "speakers": 541750,
+    "iso6391": null,
+    "iso6392": "lus",
+    "name": "Lushai"
+  },
+  "sme": {
+    "speakers": 4000,
+    "iso6391": "se",
+    "iso6392": "sme",
+    "name": "Northern Sami"
+  },
+  "mad": {
+    "speakers": 10000000,
+    "iso6391": null,
+    "iso6392": "mad",
+    "name": "Madurese"
+  },
+  "mah": {
+    "speakers": 43900,
+    "iso6391": "mh",
+    "iso6392": "mah",
+    "name": "Marshallese"
+  },
+  "mar": {
+    "speakers": 64783000,
+    "iso6391": "mr",
+    "iso6392": "mar",
+    "name": "Marathi"
+  },
+  "maz": {
+    "speakers": 350000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Central Mazahua"
+  },
+  "mcd": {
+    "speakers": 950,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Sharanahua"
+  },
+  "mcf": {
+    "speakers": 1280,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Matsés"
+  },
+  "men": {
+    "speakers": 1480000,
+    "iso6391": null,
+    "iso6392": "men",
+    "name": "Mende (Sierra Leone)"
+  },
+  "mic": {
+    "speakers": 8100,
+    "iso6391": null,
+    "iso6392": "mic",
+    "name": "Mi'kmaq"
+  },
+  "min": {
+    "speakers": 6500000,
+    "iso6391": null,
+    "iso6392": "min",
+    "name": "Minangkabau"
+  },
+  "miq": {
+    "speakers": 160000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Mískito"
+  },
+  "mkd": {
+    "speakers": 2500000,
+    "iso6391": "mk",
+    "iso6392": "mkd",
+    "name": "Macedonian"
+  },
+  "mlt": {
+    "speakers": 330000,
+    "iso6391": "mt",
+    "iso6392": "mlt",
+    "name": "Maltese"
+  },
+  "mos": {
+    "speakers": 4600000,
+    "iso6391": null,
+    "iso6392": "mos",
+    "name": "Mossi"
+  },
+  "mri": {
+    "speakers": 70000,
+    "iso6391": "mi",
+    "iso6392": "mri",
+    "name": "Maori"
+  },
+  "mve": {
+    "speakers": 12104000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Marwari (Pakistan)"
+  },
+  "mxi": {
+    "speakers": 0,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Mozarabic"
+  },
+  "mxv": {
+    "speakers": 65000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Metlatónoc Mixtec"
+  },
+  "mag": {
+    "speakers": 10821000,
+    "iso6391": null,
+    "iso6392": "mag",
+    "name": "Magahi"
+  },
+  "mzi": {
+    "speakers": 11000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ixcatlán Mazatec"
+  },
+  "emk": {
+    "speakers": 2140300,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Eastern Maninkakan"
+  },
+  "mai": {
+    "speakers": 34700000,
+    "iso6391": null,
+    "iso6392": "mai",
+    "name": "Maithili"
+  },
+  "kmb": {
+    "speakers": 3000000,
+    "iso6391": null,
+    "iso6392": "kmb",
+    "name": "Kimbundu"
+  },
+  "mam": {
+    "speakers": 157000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Mam"
+  },
+  "lun": {
+    "speakers": 3000000,
+    "iso6391": null,
+    "iso6392": "lun",
+    "name": "Lunda"
+  },
+  "mal": {
+    "speakers": 34014000,
+    "iso6391": "ml",
+    "iso6392": "mal",
+    "name": "Malayalam"
+  },
+  "umb": {
+    "speakers": 4000000,
+    "iso6391": null,
+    "iso6392": "umb",
+    "name": "Umbundu"
+  },
+  "plt": {
+    "speakers": 10156900,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Plateau Malagasy"
+  },
+  "nio": {
+    "speakers": 1063,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Nganasan"
+  },
+  "njo": {
+    "speakers": 232000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ao Naga"
+  },
+  "nhn": {
+    "speakers": 1376898,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Central Nahuatl"
+  },
+  "lao": {
+    "speakers": 4000000,
+    "iso6391": "lo",
+    "iso6392": "lao",
+    "name": "Lao"
+  },
+  "nno": {
+    "speakers": 4700000,
+    "iso6391": "nn",
+    "iso6392": "nno",
+    "name": "Norwegian Nynorsk"
+  },
+  "nob": {
+    "speakers": 5000000,
+    "iso6391": "nb",
+    "iso6392": "nob",
+    "name": "Norwegian Bokmål"
+  },
+  "not": {
+    "speakers": 4000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Nomatsiguenga"
+  },
+  "nus": {
+    "speakers": 804900,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Nuer"
+  },
+  "lns": {
+    "speakers": 125000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Lamnso'"
+  },
+  "nya": {
+    "speakers": 10000000,
+    "iso6391": "ny",
+    "iso6392": "nya",
+    "name": "Nyanja"
+  },
+  "nym": {
+    "speakers": 926000,
+    "iso6391": null,
+    "iso6392": "nym",
+    "name": "Nyamwezi"
+  },
+  "nyn": {
+    "speakers": 1643193,
+    "iso6391": null,
+    "iso6392": "nyn",
+    "name": "Nyankole"
+  },
+  "nzi": {
+    "speakers": 352500,
+    "iso6391": null,
+    "iso6392": "nzi",
+    "name": "Nzima"
+  },
+  "nep": {
+    "speakers": 16200000,
+    "iso6391": "ne",
+    "iso6392": "nep",
+    "name": "Nepali (macrolanguage)"
+  },
+  "nbl": {
+    "speakers": 588000,
+    "iso6391": "nr",
+    "iso6392": "nbl",
+    "name": "South Ndebele"
+  },
+  "nba": {
+    "speakers": 172000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Nyemba"
+  },
+  "nav": {
+    "speakers": 148530,
+    "iso6391": "nv",
+    "iso6392": "nav",
+    "name": "Navajo"
+  },
+  "oss": {
+    "speakers": 588000,
+    "iso6391": "os",
+    "iso6392": "oss",
+    "name": "Ossetian"
+  },
+  "oaa": {
+    "speakers": 295,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Orok"
+  },
+  "ojb": {
+    "speakers": 35000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northwestern Ojibwa"
+  },
+  "oki": {
+    "speakers": 20000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Okiek"
+  },
+  "ori": {
+    "speakers": 31000000,
+    "iso6391": "or",
+    "iso6392": "ori",
+    "name": "Oriya (macrolanguage)"
+  },
+  "pbb": {
+    "speakers": 68487,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Páez"
+  },
+  "tgk": {
+    "speakers": 4380000,
+    "iso6391": "tg",
+    "iso6392": "tgk",
+    "name": "Tajik"
+  },
+  "tpi": {
+    "speakers": 2000000,
+    "iso6391": null,
+    "iso6392": "tpi",
+    "name": "Tok Pisin"
+  },
+  "pes": {
+    "speakers": 7000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Iranian Persian"
+  },
+  "pis": {
+    "speakers": 350000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Pijin"
+  },
+  "pau": {
+    "speakers": 15000,
+    "iso6391": null,
+    "iso6392": "pau",
+    "name": "Palauan"
+  },
+  "pol": {
+    "speakers": 44000000,
+    "iso6391": "pl",
+    "iso6392": "pol",
+    "name": "Polish"
+  },
+  "pon": {
+    "speakers": 27700,
+    "iso6391": null,
+    "iso6392": "pon",
+    "name": "Pohnpeian"
+  },
+  "por": {
+    "speakers": 182000000,
+    "iso6391": "pt",
+    "iso6392": "por",
+    "name": "Portuguese"
+  },
+  "ppl": {
+    "speakers": 20,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Pipil"
+  },
+  "pwo": {
+    "speakers": 1209800,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Pwo Western Karen"
+  },
+  "pan": {
+    "speakers": 25700000,
+    "iso6391": "pa",
+    "iso6392": "pan",
+    "name": "Panjabi"
+  },
+  "pam": {
+    "speakers": 2000000,
+    "iso6391": null,
+    "iso6392": "pam",
+    "name": "Pampanga"
+  },
+  "pbu": {
+    "speakers": 9585000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northern Pashto"
+  },
+  "quy": {
+    "speakers": 1000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ayacucho Quechua"
+  },
+  "qvc": {
+    "speakers": 35000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Cajamarca Quechua"
+  },
+  "qva": {
+    "speakers": 65000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ambo-Pasco Quechua"
+  },
+  "qug": {
+    "speakers": 10000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Chimborazo Highland Quichua"
+  },
+  "qvh": {
+    "speakers": 38000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Huamalíes-Dos de Mayo Huánuco Quechua"
+  },
+  "qvm": {
+    "speakers": 55000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Margos-Yarowilca-Lauricocha Quechua"
+  },
+  "qvn": {
+    "speakers": 40000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "North Junín Quechua"
+  },
+  "qwh": {
+    "speakers": 300000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Huaylas Ancash Quechua"
+  },
+  "qxa": {
+    "speakers": 25000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Chiquián Ancash Quechua"
+  },
+  "qxn": {
+    "speakers": 200000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northern Conchucos Ancash Quechua"
+  },
+  "qxu": {
+    "speakers": 16000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Arequipa-La Unión Quechua"
+  },
+  "qud": {
+    "speakers": 30000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Calderón Highland Quichua"
+  },
+  "quz": {
+    "speakers": 1500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Cusco Quechua"
+  },
+  "run": {
+    "speakers": 6000000,
+    "iso6391": "rn",
+    "iso6392": "run",
+    "name": "Rundi"
+  },
+  "rmy": {
+    "speakers": 1500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Vlax Romani"
+  },
+  "roh": {
+    "speakers": 500000,
+    "iso6391": "rm",
+    "iso6392": "roh",
+    "name": "Romansh"
+  },
+  "ron": {
+    "speakers": 26000000,
+    "iso6391": "ro",
+    "iso6392": "ron",
+    "name": "Romanian"
+  },
+  "rmn": {
+    "speakers": 1000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Balkan Romani"
+  },
+  "rus": {
+    "speakers": 288000000,
+    "iso6391": "ru",
+    "iso6392": "rus",
+    "name": "Russian"
+  },
+  "raj": {
+    "speakers": 12370010,
+    "iso6391": null,
+    "iso6392": "raj",
+    "name": "Rajasthani"
+  },
+  "bel": {
+    "speakers": 10200000,
+    "iso6391": "be",
+    "iso6392": "bel",
+    "name": "Belarusian"
+  },
+  "kin": {
+    "speakers": 9306800,
+    "iso6391": "rw",
+    "iso6392": "kin",
+    "name": "Kinyarwanda"
+  },
+  "rar": {
+    "speakers": 43000,
+    "iso6391": null,
+    "iso6392": "rar",
+    "name": "Rarotongan"
+  },
+  "nso": {
+    "speakers": 3851000,
+    "iso6391": null,
+    "iso6392": "nso",
+    "name": "Pedi"
+  },
+  "san": {
+    "speakers": 194433,
+    "iso6391": "sa",
+    "iso6392": "san",
+    "name": "Sanskrit"
+  },
+  "sat": {
+    "speakers": 6218900,
+    "iso6391": null,
+    "iso6392": "sat",
+    "name": "Santali"
+  },
+  "sco": {
+    "speakers": 1500000,
+    "iso6391": null,
+    "iso6392": "sco",
+    "name": "Scots"
+  },
+  "hrv": {
+    "speakers": 21000000,
+    "iso6391": "hr",
+    "iso6392": "hrv",
+    "name": "Croatian"
+  },
+  "shk": {
+    "speakers": 175000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Shilluk"
+  },
+  "shn": {
+    "speakers": 3000000,
+    "iso6391": null,
+    "iso6392": "shn",
+    "name": "Shan"
+  },
+  "shp": {
+    "speakers": 15000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Shipibo-Conibo"
+  },
+  "sin": {
+    "speakers": 13218000,
+    "iso6391": "si",
+    "iso6392": "sin",
+    "name": "Sinhala"
+  },
+  "bos": {
+    "speakers": 21000000,
+    "iso6391": "bs",
+    "iso6392": "bos",
+    "name": "Bosnian"
+  },
+  "skr": {
+    "speakers": 15020000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Seraiki"
+  },
+  "slk": {
+    "speakers": 5606000,
+    "iso6391": "sk",
+    "iso6392": "slk",
+    "name": "Slovak"
+  },
+  "slv": {
+    "speakers": 2218000,
+    "iso6391": "sl",
+    "iso6392": "slv",
+    "name": "Slovenian"
+  },
+  "sah": {
+    "speakers": 363000,
+    "iso6391": null,
+    "iso6392": "sah",
+    "name": "Yakut"
+  },
+  "smo": {
+    "speakers": 362000,
+    "iso6391": "sm",
+    "iso6392": "smo",
+    "name": "Samoan"
+  },
+  "sna": {
+    "speakers": 7000000,
+    "iso6391": "sn",
+    "iso6392": "sna",
+    "name": "Shona"
+  },
+  "snd": {
+    "speakers": 19675000,
+    "iso6391": "sd",
+    "iso6392": "snd",
+    "name": "Sindhi"
+  },
+  "snk": {
+    "speakers": 1067000,
+    "iso6391": null,
+    "iso6392": "snk",
+    "name": "Soninke"
+  },
+  "som": {
+    "speakers": 8335000,
+    "iso6391": "so",
+    "iso6392": "som",
+    "name": "Somali"
+  },
+  "sot": {
+    "speakers": 4197000,
+    "iso6391": "st",
+    "iso6392": "sot",
+    "name": "Southern Sotho"
+  },
+  "spa": {
+    "speakers": 332000000,
+    "iso6391": "es",
+    "iso6392": "spa",
+    "name": "Spanish"
+  },
+  "src": {
+    "speakers": 1500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Logudorese Sardinian"
+  },
+  "srp": {
+    "speakers": 21000000,
+    "iso6391": "sr",
+    "iso6392": "srp",
+    "name": "Serbian"
+  },
+  "srr": {
+    "speakers": 868800,
+    "iso6391": null,
+    "iso6392": "srr",
+    "name": "Serer"
+  },
+  "ssw": {
+    "speakers": 1670000,
+    "iso6391": "ss",
+    "iso6392": "ssw",
+    "name": "Swati"
+  },
+  "suk": {
+    "speakers": 5000000,
+    "iso6391": null,
+    "iso6392": "suk",
+    "name": "Sukuma"
+  },
+  "sun": {
+    "speakers": 27000000,
+    "iso6391": "su",
+    "iso6392": "sun",
+    "name": "Sundanese"
+  },
+  "sus": {
+    "speakers": 923000,
+    "iso6391": null,
+    "iso6392": "sus",
+    "name": "Susu"
+  },
+  "suz": {
+    "speakers": 37898,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Sunwar"
+  },
+  "swb": {
+    "speakers": 97300,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Maore Comorian"
+  },
+  "swe": {
+    "speakers": 9000000,
+    "iso6391": "sv",
+    "iso6392": "swe",
+    "name": "Swedish"
+  },
+  "swh": {
+    "speakers": 30000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Swahili (individual language)"
+  },
+  "sag": {
+    "speakers": 4900000,
+    "iso6391": "sg",
+    "iso6392": "sag",
+    "name": "Sango"
+  },
+  "ton": {
+    "speakers": 123000,
+    "iso6391": "to",
+    "iso6392": "ton",
+    "name": "Tonga (Tonga Islands)"
+  },
+  "taj": {
+    "speakers": 1353311,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Eastern Tamang"
+  },
+  "tat": {
+    "speakers": 7000000,
+    "iso6391": "tt",
+    "iso6392": "tat",
+    "name": "Tatar"
+  },
+  "tbz": {
+    "speakers": 120000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ditammari"
+  },
+  "tca": {
+    "speakers": 25000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Ticuna"
+  },
+  "tel": {
+    "speakers": 73000000,
+    "iso6391": "te",
+    "iso6392": "tel",
+    "name": "Telugu"
+  },
+  "tem": {
+    "speakers": 1200000,
+    "iso6391": null,
+    "iso6392": "tem",
+    "name": "Timne"
+  },
+  "tet": {
+    "speakers": 600000,
+    "iso6391": null,
+    "iso6392": "tet",
+    "name": "Tetum"
+  },
+  "tah": {
+    "speakers": 150000,
+    "iso6391": "ty",
+    "iso6392": "tah",
+    "name": "Tahitian"
+  },
+  "tgl": {
+    "speakers": 14850000,
+    "iso6391": "tl",
+    "iso6392": "tgl",
+    "name": "Tagalog"
+  },
+  "tha": {
+    "speakers": 21000000,
+    "iso6391": "th",
+    "iso6392": "tha",
+    "name": "Thai"
+  },
+  "tir": {
+    "speakers": 6060000,
+    "iso6391": "ti",
+    "iso6392": "tir",
+    "name": "Tigrinya"
+  },
+  "tiv": {
+    "speakers": 2000000,
+    "iso6391": null,
+    "iso6392": "tiv",
+    "name": "Tiv"
+  },
+  "tob": {
+    "speakers": 20000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Toba"
+  },
+  "toi": {
+    "speakers": 1105000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Tonga (Zambia)"
+  },
+  "toj": {
+    "speakers": 36000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Tojolabal"
+  },
+  "taq": {
+    "speakers": 281200,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Tamasheq"
+  },
+  "top": {
+    "speakers": 80000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Papantla Totonac"
+  },
+  "chk": {
+    "speakers": 45000,
+    "iso6391": null,
+    "iso6392": "chk",
+    "name": "Chuukese"
+  },
+  "tsn": {
+    "speakers": 3932000,
+    "iso6391": "tn",
+    "iso6392": "tsn",
+    "name": "Tswana"
+  },
+  "tso": {
+    "speakers": 1500000,
+    "iso6391": "ts",
+    "iso6392": "tso",
+    "name": "Tsonga"
+  },
+  "ctd": {
+    "speakers": 344100,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Tedim Chin"
+  },
+  "tuk": {
+    "speakers": 5397500,
+    "iso6391": "tk",
+    "iso6392": "tuk",
+    "name": "Turkmen"
+  },
+  "tur": {
+    "speakers": 59000000,
+    "iso6391": "tr",
+    "iso6392": "tur",
+    "name": "Turkish"
+  },
+  "tyv": {
+    "speakers": 200000,
+    "iso6391": null,
+    "iso6392": "tyv",
+    "name": "Tuvinian"
+  },
+  "tzm": {
+    "speakers": 3000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Central Atlas Tamazight"
+  },
+  "tam": {
+    "speakers": 62000000,
+    "iso6391": "ta",
+    "iso6392": "tam",
+    "name": "Tamil"
+  },
+  "bod": {
+    "speakers": 6150000,
+    "iso6391": "bo",
+    "iso6392": "bod",
+    "name": "Tibetan"
+  },
+  "ven": {
+    "speakers": 876409,
+    "iso6391": "ve",
+    "iso6392": "ven",
+    "name": "Venda"
+  },
+  "ura": {
+    "speakers": 3500,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Urarina"
+  },
+  "urd": {
+    "speakers": 54000000,
+    "iso6391": "ur",
+    "iso6392": "urd",
+    "name": "Urdu"
+  },
+  "uzn": {
+    "speakers": 18386000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northern Uzbek"
+  },
+  "ukr": {
+    "speakers": 41000000,
+    "iso6391": "uk",
+    "iso6392": "ukr",
+    "name": "Ukrainian"
+  },
+  "uig": {
+    "speakers": 7464000,
+    "iso6391": "ug",
+    "iso6392": "uig",
+    "name": "Uighur"
+  },
+  "unr": {
+    "speakers": 1560280,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Mundari"
+  },
+  "vep": {
+    "speakers": 5800,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Veps"
+  },
+  "vmw": {
+    "speakers": 2500000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Makhuwa"
+  },
+  "vai": {
+    "speakers": 119500,
+    "iso6391": null,
+    "iso6392": "vai",
+    "name": "Vai"
+  },
+  "vie": {
+    "speakers": 66897000,
+    "iso6391": "vi",
+    "iso6392": "vie",
+    "name": "Vietnamese"
+  },
+  "war": {
+    "speakers": 3000000,
+    "iso6391": null,
+    "iso6392": "war",
+    "name": "Waray (Philippines)"
+  },
+  "wol": {
+    "speakers": 2700000,
+    "iso6391": "wo",
+    "iso6392": "wol",
+    "name": "Wolof"
+  },
+  "hsb": {
+    "speakers": 70000,
+    "iso6391": null,
+    "iso6392": "hsb",
+    "name": "Upper Sorbian"
+  },
+  "cym": {
+    "speakers": 580000,
+    "iso6391": "cy",
+    "iso6392": "cym",
+    "name": "Welsh"
+  },
+  "xho": {
+    "speakers": 6858000,
+    "iso6391": "xh",
+    "iso6392": "xho",
+    "name": "Xhosa"
+  },
+  "yao": {
+    "speakers": 1597000,
+    "iso6391": null,
+    "iso6392": "yao",
+    "name": "Yao"
+  },
+  "yap": {
+    "speakers": 6592,
+    "iso6391": null,
+    "iso6392": "yap",
+    "name": "Yapese"
+  },
+  "ydd": {
+    "speakers": 3000000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Eastern Yiddish"
+  },
+  "ykg": {
+    "speakers": 1100,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Northern Yukaghir"
+  },
+  "yor": {
+    "speakers": 20000000,
+    "iso6391": "yo",
+    "iso6392": "yor",
+    "name": "Yoruba"
+  },
+  "yrk": {
+    "speakers": 27273,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Nenets"
+  },
+  "yua": {
+    "speakers": 700000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Yucateco"
+  },
+  "yad": {
+    "speakers": 4000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Yagua"
+  },
+  "zam": {
+    "speakers": 80000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Miahuatlán Zapotec"
+  },
+  "ztu": {
+    "speakers": 2000,
+    "iso6391": null,
+    "iso6392": null,
+    "name": "Güilá Zapotec"
+  },
+  "zul": {
+    "speakers": 9140000,
+    "iso6391": "zu",
+    "iso6392": "zul",
+    "name": "Zulu"
+  }
+}

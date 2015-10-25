@@ -54,6 +54,9 @@ und <- function() lang("und")
 #'    characters long, this is 10 chracters by default.
 #'    Only the first \code{max_length} characters are used (2048 by
 #'    default), to make the detection reasonably fast.
+#' @param min_speakers Languages with at least this many speakers are
+#'   checked. By default this is one million. Set it to zero to
+#'   include all languages known by franc.
 #' @param whitelist List of three letter language codes to check against.
 #' @param blacklist List of three letter language codes not to check
 #'   againts.
@@ -78,8 +81,9 @@ und <- function() lang("und")
 #' head(franc_all("O Brasil caiu 26 posições em",
 #'   blacklist = c("src", "glg", "lav")))
 
-franc_all <- function(text, whitelist = NULL, blacklist = NULL,
-                      min_length = 10, max_length = 2048) {
+franc_all <- function(text, min_speakers = 1000000, whitelist = NULL,
+                      blacklist = NULL, min_length = 10,
+                      max_length = 2048) {
 
   text <- as.character(text)
   stopifnot(length(text) == 1, !is.na(text))
@@ -96,6 +100,11 @@ franc_all <- function(text, whitelist = NULL, blacklist = NULL,
   if (! script %in% names(data)) return(lang(script))
 
   ## Candidate languages
+  if (min_speakers != 0) {
+    enough_speakers <- speakers$language[speakers$speakers >= min_speakers]
+    whitelist <- c(whitelist, enough_speakers)
+  }
+
   languages <- filter_languages(
     data[[script]],
     whitelist = whitelist,
@@ -114,6 +123,9 @@ franc_all <- function(text, whitelist = NULL, blacklist = NULL,
 #'    characters long, this is 10 characters by default.
 #'    Only the first \code{max_length} characters are used (2048 by
 #'    default), to make the detection reasonably fast.
+#' @param min_speakers Languages with at least this many speakers are
+#'   checked. By default this is one million. Set it to zero to
+#'   include all languages known by franc.
 #' @param whitelist List of three letter language codes to check against.
 #' @param blacklist List of three letter language codes not to check
 #'   againts.
@@ -139,9 +151,10 @@ franc_all <- function(text, whitelist = NULL, blacklist = NULL,
 #' ## You can change what’s too short (default: 10), sco
 #' franc("the", min_length = 3)
 
-franc <- function(text, whitelist = NULL, blacklist = NULL,
-                  min_length = 10, max_length = 2048) {
+franc <- function(text, min_speakers = 1000000, whitelist = NULL,
+                  blacklist = NULL, min_length = 10, max_length = 2048) {
 
-  franc_all(text, whitelist = whitelist, blacklist = blacklist,
-            min_length = min_length, max_length = max_length)$language[[1]]
+  franc_all(text, min_speakers = min_speakers, whitelist = whitelist,
+            blacklist = blacklist, min_length = min_length,
+            max_length = max_length)$language[[1]]
 }

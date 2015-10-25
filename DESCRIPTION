@@ -25,4 +25,5 @@ Collate:
     'ngrams.R'
     'normalize.R'
     'script.R'
+    'speakers.R'
     'trigrams.R'
