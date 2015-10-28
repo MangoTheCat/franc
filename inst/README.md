@@ -6,7 +6,8 @@
 > Detect the Language of Text
 
 [![Linux Build Status](https://travis-ci.org/MangoTheCat/franc.svg?branch=master)](https://travis-ci.org/MangoTheCat/franc)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/gaborcsardi/franc?svg=true)](https://ci.appveyor.com/project/gaborcsardi/franc)
+[![Windows Build
+status](https://ci.appveyor.com/api/projects/status/github/mangothecat/franc?svg=true)](https://ci.appveyor.com/project/gaborcsardi/franc)
 [![](http://www.r-pkg.org/badges/version/franc)](http://www.r-pkg.org/pkg/franc)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/franc)](http://www.r-pkg.org/pkg/franc)
 
