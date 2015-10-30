@@ -126,7 +126,7 @@ head(franc_all("O Brasil caiu 26 posições em",
 
 The R version of franc supports 310 languages. By default only the
 languages with more than 1 million speakers are used, this is 175
-languages. The \code{min_speakers} argument can relax this, and allows
+languages. The `min_speakers` argument can relax this, and allows
 using more languages:
 
 
