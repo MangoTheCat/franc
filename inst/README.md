@@ -160,5 +160,5 @@ head(franc_all("O Brasil caiu 26 posições em", min_speakers = 0))
 
 ## License
 
-MIT © Gábor Csárdi, Titus Wormer, Maciej Ceglowski, Jacob R. Rideout
-and Kent S. Johnson.
+MIT © [Mango Solutions](https://github.com/mangothecat), Titus Wormer,
+Maciej Ceglowski, Jacob R. Rideout and Kent S. Johnson.
