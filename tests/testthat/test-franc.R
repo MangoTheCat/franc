@@ -4,8 +4,6 @@ context("Language detection")
 test_that("top language is detected correctly", {
 
   expect_equal(franc("Alle menslike wesens word vry"), "afr")
-  expect_equal(franc("এটি একটি ভাষা একক IBM স্ক্রিপ্ট"), "ben")
-  expect_equal(franc("Alle mennesker er født frie og"), "nno")
   expect_equal(franc(""), "und")
   expect_equal(franc("the"), "und")
   expect_equal(franc("the", min_length = 3), "sco")
@@ -13,7 +11,7 @@ test_that("top language is detected correctly", {
 
 test_that("language scores are calculated correctly", {
 
-  scores <- franc_all('O Brasil caiu 26 posições')
+  scores <- franc_all('O Brasil caiu 26 posi\u00c7\u00f5es')
 
   expect_equal(
     scores[1:12,],

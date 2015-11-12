@@ -45,15 +45,27 @@ test_that("clean_trigrams is case insensitive", {
 
 test_that("clean_trigrams keeps UniCode letters", {
 
-  expect_equal(clean_trigrams("এটি একটি ভাষা একক IBM স্ক্রিপ্ট")[[1]],
-               c(" এট", "এটি", "টি ", "ি এ", " এক", "একট",
-                 "কটি", "টি ", "ি ভ", " ভা", "ভাষ", "াষা",
-                 "ষা ", "া এ", " এক", "একক", "কক ", "ক i",
-                 " ib", "ibm", "bm ", "m স", " স্", "স্ক", "্ক্",
-                 "ক্র", "্রি", "রিপ", "িপ্", "প্ট",
-                 "্ট "))
+  ben <- paste0(
+    "\u098F\u099F\u09BF \u098F\u0995\u099F\u09BF ",
+    "\u09AD\u09BE\u09B7\u09BE \u098F\u0995\u0995 IBM ",
+    "\u09B8\u09CD\u0995\u09CD\u09B0\u09BF\u09AA\u09CD\u099F"
+  )
+  expect_equal(
+    clean_trigrams(ben)[[1]],
+    c(" \u098F\u099F", "\u098F\u099F\u09BF", "\u099F\u09BF ",
+      "\u09BF \u098F", " \u098F\u0995", "\u098F\u0995\u099F",
+      "\u0995\u099F\u09BF", "\u099F\u09BF ", "\u09BF \u09AD",
+      " \u09AD\u09BE", "\u09AD\u09BE\u09B7",
+      "\u09BE\u09B7\u09BE", "\u09B7\u09BE ",
+      "\u09BE \u098F", " \u098F\u0995", "\u098F\u0995\u0995",
+      "\u0995\u0995 ", "\u0995 i", " ib", "ibm", "bm ",
+      "m \u09B8", " \u09B8\u09CD", "\u09B8\u09CD\u0995",
+      "\u09CD\u0995\u09CD", "\u0995\u09CD\u09B0",
+                 "\u09CD\u09B0\u09BF", "\u09B0\u09BF\u09AA",
+      "\u09BF\u09AA\u09CD", "\u09AA\u09CD\u099F",
+      "\u09CD\u099F ")
+  )
 })
-
 
 test_that("clean_trigrams removed excesive whitespace", {
 

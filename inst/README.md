@@ -5,8 +5,9 @@
 
 > Detect the Language of Text
 
-[![Linux Build Status](https://travis-ci.org/gaborcsardi/franc.svg?branch=master)](https://travis-ci.org/gaborcsardi/franc)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/gaborcsardi/franc?svg=true)](https://ci.appveyor.com/project/gaborcsardi/franc)
+[![Linux Build Status](https://travis-ci.org/MangoTheCat/franc.svg?branch=master)](https://travis-ci.org/MangoTheCat/franc)
+[![Windows Build
+status](https://ci.appveyor.com/api/projects/status/github/mangothecat/franc?svg=true)](https://ci.appveyor.com/project/gaborcsardi/franc)
 [![](http://www.r-pkg.org/badges/version/franc)](http://www.r-pkg.org/pkg/franc)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/franc)](http://www.r-pkg.org/pkg/franc)
 
@@ -19,7 +20,7 @@ https://github.com/wooorm/franc.
 
 
 ```r
-devtools::install_github("gaborcsardi/franc")
+devtools::install_github("mangothecat/franc")
 ```
 
 ## Usage
@@ -125,7 +126,7 @@ head(franc_all("O Brasil caiu 26 posições",
 
 The R version of franc supports 310 languages. By default only the
 languages with more than 1 million speakers are used, this is 175
-languages. The \code{min_speakers} argument can relax this, and allows
+languages. The `min_speakers` argument can relax this, and allows
 using more languages:
 
 
@@ -159,5 +160,5 @@ head(franc_all("O Brasil caiu 26 posições", min_speakers = 0))
 
 ## License
 
-MIT © Gábor Csárdi, Titus Wormer, Maciej Ceglowski, Jacob R. Rideout
-and Kent S. Johnson.
+MIT © [Mango Solutions](https://github.com/mangothecat), Titus Wormer,
+Maciej Ceglowski, Jacob R. Rideout and Kent S. Johnson.
