@@ -4,15 +4,15 @@ Version: 1.1.1
 Author: Gabor Csardi, Titus Wormer, Maciej Ceglowski, Jacob R. Rideout,
     and Kent S. Johnson
 Maintainer: Gabor Csardi <csardi.gabor@gmail.com>
-Description: Franc has no external dependencies and
+Description: 'Franc' has no external dependencies and
     supports 335 languages; all languages spoken by
-    more than one million speakers. Franc is a port
-    of the JavaScript project of the same name,
-    see https://github.com/wooorm/franc.
+    more than one million speakers. 'Franc' is a port
+    of the 'JavaScript' project of the same name,
+    see <https://github.com/wooorm/franc>.
 License: MIT + file LICENSE
 LazyData: true
-URL: https://github.com/gaborcsardi/franc
-BugReports: https://github.com/gaborcsardi/franc/issues
+URL: https://github.com/mangothecat/franc
+BugReports: https://github.com/mangothecat/franc/issues
 Suggests:
     testthat
 RoxygenNote: 4.1.1.9001
