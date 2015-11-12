@@ -3,9 +3,9 @@ Title: Detect the Language of Text
 Version: 1.1.1
 Author: Gabor Csardi, Titus Wormer, Maciej Ceglowski, Jacob R. Rideout,
     and Kent S. Johnson
-Maintainer: Gabor Csardi <csardi.gabor@gmail.com>
-Description: 'Franc' has no external dependencies and
-    supports 335 languages; all languages spoken by
+Maintainer: Gabor Csardi <gcsardi@mango-solutions.com>
+Description: With no external dependencies and
+    support for 335 languages; all languages spoken by
     more than one million speakers. 'Franc' is a port
     of the 'JavaScript' project of the same name,
     see <https://github.com/wooorm/franc>.
@@ -16,6 +16,7 @@ BugReports: https://github.com/mangothecat/franc/issues
 Suggests:
     testthat
 RoxygenNote: 5.0.1
+Encoding: UTF-8
 Imports:
     jsonlite
 Collate:
