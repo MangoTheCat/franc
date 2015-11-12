@@ -72,14 +72,14 @@ und <- function() lang("und")
 #'   \code{\link{speakers}}.
 #' @export
 #' @examples
-#' head(franc_all("O Brasil caiu 26 posições em"))
+#' head(franc_all("O Brasil caiu 26 posições"))
 #'
 #' ## Provide a whitelist:
-#' franc_all("O Brasil caiu 26 posições em",
+#' franc_all("O Brasil caiu 26 posições",
 #'   whitelist = c("por", "src", "glg", "spa"))
 #'
 #' ## Provide a blacklist:
-#' head(franc_all("O Brasil caiu 26 posições em",
+#' head(franc_all("O Brasil caiu 26 posições",
 #'   blacklist = c("src", "glg", "lav")))
 
 franc_all <- function(text, min_speakers = 1000000, whitelist = NULL,

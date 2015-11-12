@@ -42,14 +42,14 @@ the higher the score. Scores are scaled, so that the closest language
 will have a score of 1.
 }
 \examples{
-head(franc_all("O Brasil caiu 26 posições em"))
+head(franc_all("O Brasil caiu 26 posições"))
 
 ## Provide a whitelist:
-franc_all("O Brasil caiu 26 posições em",
+franc_all("O Brasil caiu 26 posições",
   whitelist = c("por", "src", "glg", "spa"))
 
 ## Provide a blacklist:
-head(franc_all("O Brasil caiu 26 posições em",
+head(franc_all("O Brasil caiu 26 posições",
   blacklist = c("src", "glg", "lav")))
 }
 \seealso{

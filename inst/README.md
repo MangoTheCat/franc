@@ -57,17 +57,17 @@ franc("Alle mennesker er født frie og")
 ```
 
 ```r
-head(franc_all("O Brasil caiu 26 posições em"))
+head(franc_all("O Brasil caiu 26 posições"))
 ```
 
 ```
 #>   language     score
 #> 1      por 1.0000000
-#> 2      glg 0.7362599
-#> 3      src 0.7286554
-#> 4      lav 0.6944348
-#> 5      cat 0.6802627
-#> 6      spa 0.6633253
+#> 2      src 0.8800937
+#> 3      glg 0.8702576
+#> 4      snn 0.8637002
+#> 5      bos 0.8168618
+#> 6      hrv 0.8103044
 ```
 
 `und` is the `undefined` language, this is returned if the input is
@@ -94,31 +94,31 @@ You can provide a whitelist or a blacklist:
 
 
 ```r
-franc_all("O Brasil caiu 26 posições em",
+franc_all("O Brasil caiu 26 posições",
     whitelist = c("por", "src", "glg", "spa"))
 ```
 
 ```
 #>   language     score
 #> 1      por 1.0000000
-#> 2      glg 0.7362599
-#> 3      src 0.7286554
-#> 4      spa 0.6633253
+#> 2      src 0.8800937
+#> 3      glg 0.8702576
+#> 4      spa 0.7995316
 ```
 
 ```r
-head(franc_all("O Brasil caiu 26 posições em",
+head(franc_all("O Brasil caiu 26 posições",
     blacklist = c("src", "glg", "lav")))
 ```
 
 ```
 #>   language     score
 #> 1      por 1.0000000
-#> 2      cat 0.6802627
-#> 3      spa 0.6633253
-#> 4      bos 0.6536467
-#> 5      tpi 0.6477705
-#> 6      hrv 0.6456965
+#> 2      snn 0.8637002
+#> 3      bos 0.8168618
+#> 4      hrv 0.8103044
+#> 5      cat 0.8065574
+#> 6      spa 0.7995316
 ```
 
 ## Supported languages
@@ -130,31 +130,31 @@ using more languages:
 
 
 ```r
-head(franc_all("O Brasil caiu 26 posições em"))
+head(franc_all("O Brasil caiu 26 posições"))
 ```
 
 ```
 #>   language     score
 #> 1      por 1.0000000
-#> 2      glg 0.7362599
-#> 3      src 0.7286554
-#> 4      lav 0.6944348
-#> 5      cat 0.6802627
-#> 6      spa 0.6633253
+#> 2      src 0.8800937
+#> 3      glg 0.8702576
+#> 4      snn 0.8637002
+#> 5      bos 0.8168618
+#> 6      hrv 0.8103044
 ```
 
 ```r
-head(franc_all("O Brasil caiu 26 posições em", min_speakers = 0))
+head(franc_all("O Brasil caiu 26 posições", min_speakers = 0))
 ```
 
 ```
 #>   language     score
-#> 1      por 1.0000000
-#> 2      lad 0.8475631
-#> 3      roh 0.7452471
-#> 4      ast 0.7400622
-#> 5      glg 0.7362599
-#> 6      src 0.7286554
+#> 1      lad 1.0000000
+#> 2      por 0.9442724
+#> 3      pov 0.8788147
+#> 4      ast 0.8677576
+#> 5      roh 0.8363556
+#> 6      src 0.8310482
 ```
 
 ## License

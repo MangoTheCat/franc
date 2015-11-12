@@ -13,18 +13,18 @@ test_that("top language is detected correctly", {
 
 test_that("language scores are calculated correctly", {
 
-  scores <- franc_all('O Brasil caiu 26 posições em')
+  scores <- franc_all('O Brasil caiu 26 posições')
 
   expect_equal(
     scores[1:12,],
     data.frame(
       stringsAsFactors = FALSE,
-      language = c("por", "glg", "src", "lav", "cat", "spa", "bos", "tpi",
-        "hrv", "snn", "bam", "sco"),
-      score = c(1, 0.7362599377808503, 0.7286553750432078,
-        0.6944348427238161, 0.6802627030763913, 0.6633252678880055,
-        0.6536467334946423, 0.6477704804701002, 0.6456965088143796,
-        0.6374006221914967, 0.5900449360525406, 0.5893536121673004)
+      language = c("por", "src", "glg", "snn", "bos", "hrv", "lav", "cat",
+        "spa", "bam", "sco", "rmy"),
+      score = c(1, 0.880093676814988, 0.870257611241218, 0.863700234192037,
+        0.816861826697892, 0.810304449648712, 0.809836065573771,
+        0.80655737704918, 0.799531615925059, 0.799531615925059,
+        0.779859484777518, 0.753629976580796)
     )
   )
 

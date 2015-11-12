@@ -38,7 +38,7 @@ Simply supply the text, and franc detects its language:
 franc("Alle menslike wesens word vry")
 franc("এটি একটি ভাষা একক IBM স্ক্রিপ্ট")
 franc("Alle mennesker er født frie og")
-head(franc_all("O Brasil caiu 26 posições em"))
+head(franc_all("O Brasil caiu 26 posições"))
 ```
 
 `und` is the `undefined` language, this is returned if the input is
@@ -52,9 +52,9 @@ franc("the", min_length = 3)
 You can provide a whitelist or a blacklist:
 
 ```{r}
-franc_all("O Brasil caiu 26 posições em",
+franc_all("O Brasil caiu 26 posições",
     whitelist = c("por", "src", "glg", "spa"))
-head(franc_all("O Brasil caiu 26 posições em",
+head(franc_all("O Brasil caiu 26 posições",
     blacklist = c("src", "glg", "lav")))
 ```
 
@@ -66,8 +66,8 @@ languages. The \code{min_speakers} argument can relax this, and allows
 using more languages:
 
 ```{r}
-head(franc_all("O Brasil caiu 26 posições em"))
-head(franc_all("O Brasil caiu 26 posições em", min_speakers = 0))
+head(franc_all("O Brasil caiu 26 posições"))
+head(franc_all("O Brasil caiu 26 posições", min_speakers = 0))
 ```
 
 ## License
