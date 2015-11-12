@@ -32,7 +32,6 @@ By default only the first 2048 characters are used.}
 A data frame with columns \code{language} and \code{score}.
   The \code{language} column contains the three letter ISO-639-3
   language codes. The \code{score} column contains the scores.
-
 }
 \description{
 Returns the scores for all languages that use the same script

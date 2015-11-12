@@ -31,7 +31,6 @@ By default only the first 2048 characters are used.}
 \value{
 A three letter ISO-639-3 language code, the detected
   language of the text. \code{"und"} is returned for too short input.
-
 }
 \description{
 Detect the language of a string
